@@ -1,0 +1,4 @@
+(executable
+ (name shell)
+ (modules shell)
+ (libraries unix))

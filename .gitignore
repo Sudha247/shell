@@ -1,0 +1,4 @@
+*.pdf
+*_build
+*.merlin
+dune-project
